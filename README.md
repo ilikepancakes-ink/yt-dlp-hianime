@@ -1,4 +1,4 @@
-This is a extractor plugin for [yt-dlp](https://github.com/yt-dlp/yt-dlp) that enables downloading content from [HiAnime](https://hianime.to/).
+This is a extractor plugin for [yt-dlp](https://github.com/yt-dlp/yt-dlp) that enables downloading content from [HiAnime](https://hianime.ms/).
 It supports playlist as well as single episodes.
 
 ## Installation
